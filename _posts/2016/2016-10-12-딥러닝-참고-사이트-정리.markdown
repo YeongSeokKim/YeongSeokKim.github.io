@@ -1,0 +1,7 @@
+---
+layout: post
+title: 딥러닝_참고_사이트_정리
+date: '2016-10-12 16:05'
+tags:
+  - Deep Learning
+---
