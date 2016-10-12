@@ -4,10 +4,11 @@ layout: single
 excerpt: "GTX1080 + Ubuntu 14.04"
 sitemap: true
 permalink: /Deep_Learning_Computer.html
+date: 2016-10-12 16:00:00
 ---
 
 #### 연구실 컴퓨터 사양
-![연구실 컴퓨터]("\images\2016-10-12\Lab_computer.png")
+![연구실 컴퓨터](\images\2016-10-12\Lab_computer.png)
 \+ GTX1080
 
 #### 설치 순서
