@@ -9,11 +9,13 @@ permalink: /Deep_Learning_Reference.html
 ---
 
 ## Paper  
+
 ### 국내  
 
 ### 해외  
 
 ## Lecture  
+
 ### 국내  
 
 ### 해외  
@@ -24,6 +26,7 @@ permalink: /Deep_Learning_Reference.html
 
 ## Books  
 (연구실 소유 여부는 [H]로 표시 )  
+
 ### 국내  
 ![텐서플로 첫걸음](http://image.yes24.com/momo/TopCate0001/kepub/M_542323.jpg)  
 [H] [텐서플로 첫걸음](http://www.yes24.com/24/goods/30547754?scode=032&OzSrank=1)  
@@ -39,6 +42,7 @@ permalink: /Deep_Learning_Reference.html
 : 온라인 기반 딥러닝 책. pdf 파일은 따로 제공하지 않지만 전문이 공개되어 있기에 pdf로 인쇄해서 사용하면 될 듯 하다. 딥 러닝 / 머신 러닝과 관련하여 최근 가장 널리 공유되는 책이라고 보면 될 듯.
 
 ## Sites  
+
 ### 국내  
 [Facebook AI Korea](https://www.facebook.com/groups/AIKoreaOpen)  
 : 인공지능 주제의 페이스북 그룹. 최근에는 거의 딥러닝 관련 내용이 올라오므로 구독하면 참고가 된다.
