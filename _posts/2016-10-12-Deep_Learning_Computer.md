@@ -2,8 +2,8 @@
 title: "연구실 딥러닝용 컴퓨터 설정"
 layout: single
 excerpt: "GTX1080 + Ubuntu 14.04"
-sitemap: false
-permalink: /
+sitemap: true
+permalink: /Deep_Learning_Computer.html
 ---
 
 #### 연구실 컴퓨터 사양

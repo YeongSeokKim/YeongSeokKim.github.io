@@ -3,7 +3,7 @@ title: "설치 없이 Jekyll 블로그 만들기"
 layout: single
 excerpt: "설치가 귀찮은 사람들을 위한 Jekyll 설치 기록"
 sitemap: false
-permalink: /
+permalink: /Easy_Jekyll_Blog.html
 ---
 
 고민 끝에 Jekyll 블로그를 만들기로 결정했으나 이를 제대로 사용하기 위해서는 Ruby, Python, Jekyll 등을 설치하고 빌드해야 한다.
