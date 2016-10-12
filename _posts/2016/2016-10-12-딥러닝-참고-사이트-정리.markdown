@@ -6,6 +6,7 @@ date: '2016-10-12 16:05'
 tags:
   - Deep Learning
 permalink: #/Deep_Learning_Reference.html
+header: \images\2016-10-12_Deep_Learning_Reference\cs231n.png
 ---
 
 ## Paper  
