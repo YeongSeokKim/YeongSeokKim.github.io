@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: single
 title: 딥러닝_참고_사이트_정리
+excerpt: "딥러닝과 관련되어 보면 좋은 참고 목록들"
 date: '2016-10-12 16:05'
 tags:
   - Deep Learning
