@@ -2,7 +2,7 @@
 title: "설치 없이 Jekyll 블로그 만들기"
 layout: single
 excerpt: "설치가 귀찮은 사람들을 위한 Jekyll 설치 기록"
-sitemap: false
+sitemap: true
 permalink: /Easy_Jekyll_Blog.html
 date: 2016-10-12 14:00:00
 ---
