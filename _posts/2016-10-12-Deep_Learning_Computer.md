@@ -40,7 +40,7 @@ permalink: /
 4. Cuda 설치  
 4.1 https://developer.nvidia.com/cuda-downloads 에서 CUDA 최신버전을 다운받는다
 4.2 tty로 진입해서 sudo service lightdm stop 으로 그래피컬 인터페이스 끔
-4.3 sudo sh cuda_<version>_linux.run 로 쿠다 설치
+4.3 sudo sh cuda_<version>\_linux.run 로 쿠다 설치
 4.4 reboot
 4.5 terminal에서 gedit .bashrc 로 PATH 추가
 $ export PATH=/usr/local/cuda-8.0/bin${PATH:+:${PATH}}
