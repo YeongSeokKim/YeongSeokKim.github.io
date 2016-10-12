@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Life_is_Deep"
+title                    : "Life is Deep"
 title_separator          : "-"
 name                     : "Eneria"
 description              : "딥러닝과 프로그래밍, 그리고 개인적인 탐구를 기록"
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/yeongseokkim"
   google_plus      :
   keybase          :
   instagram        :
