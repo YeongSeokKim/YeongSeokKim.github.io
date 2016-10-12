@@ -7,7 +7,9 @@ tags:
   - Deep Learning
 permalink: #/Deep_Learning_Reference.html
 header:
-  image: 2016-10-12_Deep_Learning_Reference/cs231n.png
+  overlay_image: 2016-10-12_Deep_Learning_Reference/cs231n.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+
 ---
 
 ## Paper  
