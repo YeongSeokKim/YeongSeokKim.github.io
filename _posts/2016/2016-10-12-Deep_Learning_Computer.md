@@ -31,10 +31,10 @@ tags:
 3.1 http://www.nvidia.com/Download/index.aspx?lang=en-us 에서 GTX1080, Linux 64bit용 드라이버 다운로드  
 3.2 ```sudo apt-get purge nvidia-*``` 명령을 통해 기존 드라이버 삭제 (아마 없음)  
 3.3 그냥은 tty로 진입이 안 되므로 ```sudo vi /etc/default/grub``` 로 아래와 같이 수정 ([출처](http://blog.sanguneo.com/17))  
-```
-"GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
-→ GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"
-```
+```  
+"GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"  
+→ GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"  
+```  
 3.4 ```sudo update-grub```을 통해 업데이트를 반영시킴  
 3.5 ```CTRL+ALT+F1```을 눌러 tty로 진입  
 3.6 ```sudo init 3``` 을 통해 text only mode 설정  
@@ -48,24 +48,24 @@ tags:
 4.3 ```sudo sh cuda_<version>\_linux.run``` 로 쿠다 설치  
 4.4 ```reboot```  
 4.5 terminal에서 ```gedit .bashrc``` 로 PATH 추가  
-```
+```  
 $ export PATH=/usr/local/cuda-8.0/bin${PATH:+:${PATH}}  
 $ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64\${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}  
-```
+```  
 4.6 gcc 설치 ( ```sudo apt-get install g++``` )  
 4.7 cuda sample build  
-```
+```  
 cuda-install-samples-8.0.sh ~  
 make  
-```
+```  
 4.8 시간 오래 걸려서 설치가 끝나면 ```samples/1_Utilities/deviceQuery``` 폴더에서 ```./deviceQuery```로 실행해서 결과 확인  
 
 5. CuDNN 설치  
 5.1 https://developer.nvidia.com/cudnn 에서 최신버전을 다운로드  (회원가입 필요)  
 5.2 cuDNN Library for Linux (압축파일)을 다운받은 뒤 해당 폴더에서 아래 명령을 순차적으로 실행  
-```
+```  
 tar xvzf cudnn-x.x-linux-x64-v4.0-prod.tgz  
 sudo cp cuda/include/cudnn.h /usr/local/cuda/include  
 sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64  
 sudo chmod a+r /usr/local/cuda/lib64/libcudnn*  
-```
+```  
