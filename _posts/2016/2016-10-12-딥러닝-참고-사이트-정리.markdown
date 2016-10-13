@@ -23,7 +23,7 @@ header:
 ### 국내  
 
 ### 해외  
-![CS231n](\images\2016-10-12_Deep_Learning_Reference\cs231n.png)  
+![CS231n](/images/2016-10-12_Deep_Learning_Reference/cs231n.png)  
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) ( [코스노트](http://cs231n.github.io/), [한국어번역 프로젝트](http://aikorea.org/cs231n/) )  
 : 딥러닝 관련 강의 중 가장 인기있는 스탠포드 대학의 온라인 강좌 사이트.  
 
