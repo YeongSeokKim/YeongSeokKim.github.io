@@ -1,0 +1,21 @@
+---
+layout: single
+title: "aboutme"
+excerpt: about me
+date: "2016-10-13 15:27:41"
+sitemap: true
+permalink: /aboutme.html
+---
+<!-- ![Profile](/images/eneria.jpg) -->
+<img src="/images/eneria.jpg" width="100">
+## About Me
+-   
+
+## Research Area
+- Image Processing  
+- Deep Learning  
+
+## Education
+- 2007-2011: Department of Computer Science, Yonsei University (B.S)
+- 2011-2013: Department of Computer Science, Yonsei University (M.S)
+- 2013-Currently in Department of Computer Science, Yonsei University (Doctor’s Course)

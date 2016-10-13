@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "딥러닝 참고목록"
-    url: https://yeongseokkim.github.io/Deep_Learning_Reference.html
+    url: https://yeongseokkim.github.io/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B0%B8%EA%B3%A0-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%A0%95%EB%A6%AC/
 
-  - title: "기타 링크"
-    url: /
+  - title: "About Me"
+    url: https://yeongseokkim.github.io/aboutme.html
