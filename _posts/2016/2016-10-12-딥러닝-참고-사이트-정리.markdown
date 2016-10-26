@@ -40,6 +40,11 @@ header:
 [H] [(IT 엔지니어를 위한) 머신러닝 이론 입문](http://www.yes24.com/24/goods/28191508?scode=032&OzSrank=1), [(알고리즘으로 배우는 인공지능), 머신러닝, 딥러닝 입문](http://www.yes24.com/24/goods/29229139?CategoryNumber=001001003031005&Pcode=011)  
 : 위키북스 데이터 사이언스 시리즈.
 
+![딥러닝 제대로 시작하기](http://image.yes24.com/momo/TopCate955/MidCate001/95405832.jpg)  
+[H] [딥 러닝 제대로 시작하기](http://www.yes24.com/24/goods/32520392?scode=029)  
+: 일본에서 나온 딥러닝 입문서. 딥 러닝의 기본 이론쪽을 잘 설명하였지만 단점이 있다면 용어를 다 번역해놓았다...본문에서 처음 등장할 때 영어를 병기하긴 하지만 **앞먹임 신경망**(feedforward neural network)같은 용어는 너무 생소해서 보기 힘든게 문제.
+
+
 ### 해외  
 [http:/ /www.deeplearningbook.org/](http:/ /www.deeplearningbook.org/)  
 : 온라인 기반 딥러닝 책. pdf 파일은 따로 제공하지 않지만 전문이 공개되어 있기에 pdf로 인쇄해서 사용하면 될 듯 하다. 딥 러닝 / 머신 러닝과 관련하여 최근 가장 널리 공유되는 책이라고 보면 될 듯.
