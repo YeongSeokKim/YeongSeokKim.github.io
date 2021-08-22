@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Life is Deep"
+title                    : "공사중"
 title_separator          : "-"
 name                     : "Eneria"
-description              : "딥러닝과 프로그래밍, 그리고 개인적인 탐구를 기록"
+description              : "공사중입니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Eneria"
   avatar           : "bio-photo.jpg"
-  bio              : "Investigator."
-  location         : "Somewhere"
+  bio              : "공사중"
+  location         : "공사중"
   email            : "kys71015@gmail.com"
   uri              :
   bitbucket        :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yeongseokkim"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
